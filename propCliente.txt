@@ -1,0 +1,2 @@
+ipServidor=127.0.0.1
+puertoServidor=3000

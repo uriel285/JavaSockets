@@ -1,0 +1,3 @@
+localhost Marcelo
+192.2.2.100 Juan
+192.2.2.101 Mara

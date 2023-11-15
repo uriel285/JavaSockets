@@ -1,0 +1,6 @@
+puerto=3000
+backlog=5
+archivoDeHosts=hosts.txt
+archivoDeSonido=file:gong.au
+frase=Esta es la clave
+conexiones=30
